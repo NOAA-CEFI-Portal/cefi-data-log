@@ -1,0 +1,4 @@
+release 2023-05-20 : 
+    The initial release of the Northwest Atlantic full domain hindcast simulation.
+    The paper with more extend validation of the simulation is DOI://10.5194/gmd-16-6943-2023
+    The data cittaion is DOI://10.5281/zenodo.7893386
