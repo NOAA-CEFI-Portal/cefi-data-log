@@ -2,3 +2,4 @@ release 2025-02-12 :
     The initial release of the Northwest Atlantic full domain seasonal forecast simulation 2025-02.
     The paper with more extend validation of the simulation is DOI://10.5194/egusphere-2024-394
     The data cittaion is DOI://10.5281/zenodo.10642295
+    Currently only serve tos, tob, sos
