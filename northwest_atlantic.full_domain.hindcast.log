@@ -1,4 +1,12 @@
+release 2025-05-01 :
+    A release of the updated Northwest Atlantic full domain hindcast simulation. 
+    With this release, the simulation now runs through the end of 2023. 
+    Updates to the model code and several of the configuration options have been made.
+    A pull request detailing the changes is at
+    https://github.com/NOAA-GFDL/CEFI-regional-MOM6/pull/177.
+    This version does not have an associated publication or citation.
+
 release 2023-05-20 : 
     The initial release of the Northwest Atlantic full domain hindcast simulation.
     The paper with more extend validation of the simulation is DOI://10.5194/gmd-16-6943-2023
-    The data cittaion is DOI://10.5281/zenodo.7893386
+    The data citation is DOI://10.5281/zenodo.7893386
