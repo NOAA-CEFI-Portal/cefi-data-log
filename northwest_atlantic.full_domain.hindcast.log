@@ -1,4 +1,4 @@
-release 2025-05-01 :
+release 2025-07-15 :
     A release of the updated Northwest Atlantic full domain hindcast simulation. 
     With this release, the simulation now runs through the end of 2023. 
     Updates to the model code and several of the configuration options have been made.
