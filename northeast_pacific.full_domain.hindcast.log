@@ -1,7 +1,7 @@
 release 2025-08-18 : 
     The third release of the Northeast Pacific full-domain hindcast is now available.
     This version replaces the previous release, which contained errors beginning in early 2024.
-    To prevent misuse, the earlier version will be removed from the data portal.
+    To prevent misuse, release2025-05-09 will be removed from the data portal.
     The paper with more extend validation of the simulation is DOI://10.5194/gmd-2024-195
     The data cittaion is DOI://10.5281/zenodo.13936240
 
